@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Promise Amarachi Emeka 👋
 
-<!--
-**promiseamarachiemeka/promiseamarachiemeka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Customer Support & IT Specialist | Cloud Learner | Based in Nigeria**
 
-Here are some ideas to get you started:
+I help businesses deliver clear, reliable customer support and run smooth day-to-day IT and workflow operations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I do
+- Customer service and technical support
+- Helpdesk ticket handling and escalation
+- CRM and account management
+- Workflow automation
+- Remote project and calendar management
+
+## Certifications
+- In-Demand IT Skills Training, Digital Witch Support Community (Dec 2025)
+- Certified IT Support Specialist, Digital Witch Support Community (Dec 2025)
+- Entrepreneurship and Small Business Course, Jobberman Nigeria / Mastercard Foundation (Jun 2026)
+
+## Currently learning
+- Cloud fundamentals
+- Customer Success Management
+
+## Projects (coming soon)
+- Sample customer support workflow
+- CRM pipeline setup
+- Simple workflow automation
+
+## Let's work together
+- https://www.upwork.com/jobs/~021992326488572462678
+- https://www.linkedin.com/in/promise-amarachi-74a604228 
