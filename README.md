@@ -26,5 +26,5 @@ I help businesses deliver clear, reliable customer support and run smooth day-to
 - Simple workflow automation
 
 ## Let's work together
-- https://www.upwork.com/jobs/~021992326488572462678
+- https://www.upwork.com/freelancers/~01e831affd0e8da7f9
 - https://www.linkedin.com/in/promise-amarachi-74a604228 
